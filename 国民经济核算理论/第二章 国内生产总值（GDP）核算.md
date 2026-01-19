@@ -1,3 +1,7 @@
+---
+share_link: https://share.note.sx/yeygg1hn#b1Epicm6qdRKUuNELYoqQFATAhxUkDL1hu+r/qywsiY
+share_updated: 2026-01-19T23:27:30+08:00
+---
 # 2.1 国内生产总值核算的基本问题
 ## 国民经济核算的是**经济生产**
 - **包含**：生产者提供给其他单位的货物或服务；生产者用于自身消费或投资的货物（如自产粮食）；自有住房服务（虚拟计算）。
