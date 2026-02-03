@@ -16,6 +16,7 @@
 - [ ] git命令
 - [ ] gemini CLI
 - [ ] 自己的服务器与域名
+- [ ] Powertoys Awake
 - [ ] 
 
 
