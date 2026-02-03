@@ -13,7 +13,7 @@
 
 
 # Obsidian的git
-
+这个主要是自己的clash的设置问题
 
 
 
