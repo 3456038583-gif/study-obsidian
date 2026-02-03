@@ -12,6 +12,10 @@
 - [ ] figma
 - [ ] python command
 - [ ] ssh 远程服务器租借（深度学习）
+- [ ] docker
+- [ ] git命令
+- [ ] gemini CLI
+- [ ] 自己的服务器与域名
 - [ ] 
 
 
