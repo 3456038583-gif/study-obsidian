@@ -17,6 +17,12 @@
 - [ ] gemini CLI
 - [ ] 自己的服务器与域名
 - [ ] Powertoys
+- [ ] 右上角gemini
+- [ ] powertoys全文件搜索（Everything)
+- [ ] powertoys分屏
+- [ ] gemini APIkey
+- [ ] Google one
+- [ ] Google收藏文件夹
 - [ ] 
 
 
