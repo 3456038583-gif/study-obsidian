@@ -1,5 +1,5 @@
 - [ ] WebRTC
-- [ ] Prison Gothic
+- [x] Prison Gothic
 - [ ] Google Trend scratch
 - [ ] VMware
 - [x] Antigravity agent
@@ -15,6 +15,7 @@
 - [ ] docker
 - [ ] git命令
 - [ ] gemini CLI
+- [ ] opencode
 - [ ] 自己的服务器与域名
 - [x] Powertoys
 - [ ] 右上角gemini
