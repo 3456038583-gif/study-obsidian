@@ -2,7 +2,7 @@
 - [ ] Prison Gothic
 - [ ] Google Trend scratch
 - [ ] VMware
-- [ ] Antigravity agent
+- [x] Antigravity agent
 - [ ] 手机内容备份
 - [ ] vv
 - [x] Powertoys Awake
